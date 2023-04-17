@@ -6,16 +6,14 @@
 Ini Adalah Script Penginstalan Untuk [ControlPanel](https://controlpanel.gg/)<br>
 Script Ini Tidak Terkait Dengan Proyek Resmi.
 
-<h1 align="center">Features</h1>
+<h1 align="center">Fitur</h1>
 
 - Instalasi Otomatis ControlPanel (dependencies, database, cronjob, nginx).
 - Konfigurasi Otomatis UFW (Firewall Untuk Ubuntu/Debian).
 - (Opsional) Konfigurasi Otomatis Let's Encrypt.
 - (Opsional) Peningkatan Panel Otomatis Ke Versi Yang Lebih Baru
 
-<h1 align="center">Support</h1>
 
-For help and support regarding the script itself and **not the official ControlPanel project**, Join our [Support Group](https://discord.gg/buDBbSGJmQ).
 
 <h1 align=center>Supported installations</h1>
 
