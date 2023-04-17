@@ -19,7 +19,7 @@ Script Ini Tidak Terkait Dengan Proyek Resmi.
 
 Daftar pengaturan penginstalan yang didukung untuk panel (penginstalan yang didukung oleh skrip penginstalan ini).
 
-<h1 align="center">Systems supported by script</h1></br>
+<h1 align="center">Os yang didukung oleh skrip</h1></br>
 
 |   Operating System    |  Version       | ✔️ \| ❌    |
 | :---                  |     :---       | :---:      |
