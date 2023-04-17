@@ -43,7 +43,7 @@ bash <(curl -s https://raw.githubusercontent.com/NdraHosting/ControlPanel-Instal
 ```
 
 <h1 align="center">Cara Open Root</h1>
-Cara Open Root Di VPS GCP/Linode Dll. Lihat Di Sini [OpenRoot](https://github.com/NdraHosting/OpenRoot)<br>
+Cara Open Root Di VPS GCP/Linode Dll. Lihat Di Sini [OpenRoot](https://github.com/NdraHosting/OpenRoot).
 
 <h1 align="center">Attention!</h1>
 
