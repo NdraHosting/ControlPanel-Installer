@@ -53,7 +53,7 @@ bash <(curl -s https://raw.githubusercontent.com/NdraHosting/ControlPanel-Instal
 
 *Anda harus login ke sistem Anda sebagai root untuk menggunakan perintah.*
 
-**Example:** ```# bash <(curl -s...```
+**contoh:** ```# bash <(curl -s...```
 
 
 
