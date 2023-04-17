@@ -42,6 +42,9 @@ Jalankan Perintah Berikut Ini Di Di Ssh Dan Menggunakan User root
 bash <(curl -s https://raw.githubusercontent.com/NdraHosting/ControlPanel-Installer/development/install.sh)
 ```
 
+<h1 align="center">Cara Open Root</h1>
+Cara Open Root Di VPS GCP/Linode Dll. Lihat Di Sini [OpenRoot](https://github.com/NdraHosting/OpenRoot)<br>
+
 <h1 align="center">Attention!</h1>
 
 *Do not run the command using sudo.*
