@@ -15,9 +15,9 @@ Script Ini Tidak Terkait Dengan Proyek Resmi.
 
 
 
-<h1 align=center>Supported installations</h1>
+<h1 align=center>Instalasi Yang Didukung</h1>
 
-List of supported installation setups for panel (installations supported by this installation script).
+Daftar pengaturan penginstalan yang didukung untuk panel (penginstalan yang didukung oleh skrip penginstalan ini).
 
 <h1 align="center">Systems supported by script</h1></br>
 
