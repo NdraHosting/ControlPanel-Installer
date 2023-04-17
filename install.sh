@@ -7,7 +7,7 @@ set -e
 # 
 #         Pterodactyl-AutoThemes Installation
 #
-#         Created and maintained by Ferks-FK
+#         Created and maintained by Ndraa
 #
 #            Protected by MIT License
 #
