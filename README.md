@@ -8,10 +8,10 @@ Script Ini Tidak Terkait Dengan Proyek Resmi.
 
 <h1 align="center">Features</h1>
 
-- Automatic installation of the ControlPanel (dependencies, database, cronjob, nginx).
-- Automatic configuration of UFW (firewall for Ubuntu/Debian).
-- (Optional) automatic configuration of Let's Encrypt.
-- (Optional) Automatic panel upgrade to a newer version.
+- Instalasi Otomatis ControlPanel (dependencies, database, cronjob, nginx).
+- Konfigurasi Otomatis UFW (Firewall Untuk Ubuntu/Debian).
+- (Opsional) Konfigurasi Otomatis Let's Encrypt.
+- (Opsional) Peningkatan Panel Otomatis Ke Versi Yang Lebih Baru
 
 <h1 align="center">Support</h1>
 
