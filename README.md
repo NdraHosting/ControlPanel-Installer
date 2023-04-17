@@ -33,9 +33,10 @@ Daftar pengaturan penginstalan yang didukung untuk panel (penginstalan yang didu
 |                       | 8              | ✔️         |
 
 
-<h1 align="center">How to use</h1>
+<h1 align="center">Cara Instalasi</h1>
 
-Just run the following command as root user.
+Jalankan Perintah Berikut Ini Di Di Ssh Dan Menggunakan User root
+
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/NdraHosting/ControlPanel-Installer/development/install.sh)
